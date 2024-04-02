@@ -1,6 +1,6 @@
 // OR , AND - && || O Y
 
-// =Asignación o Operacion   == comparación  === tipo de Dato
+// =Asignación o Operacion   == comparación  === tipo de Dato - operador de compración estricto
 let edad = 17
 let genero = "F"
 
