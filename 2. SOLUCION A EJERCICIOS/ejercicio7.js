@@ -29,6 +29,8 @@ if(montoDeLaCompra > 5000){
     montodescuento = 0
 }
 
-let total = montoDeLaCompra -  montodescuento
+let total = montoDeLaCompra -  montodescuen
+
+o
 
 console.log(total)
